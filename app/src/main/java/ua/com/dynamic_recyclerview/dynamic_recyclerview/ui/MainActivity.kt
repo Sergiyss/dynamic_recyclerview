@@ -1,4 +1,4 @@
-package ua.com.dynamic_recyclerview.dynamic_recyclerview
+package ua.com.dynamic_recyclerview.dynamic_recyclerview.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
