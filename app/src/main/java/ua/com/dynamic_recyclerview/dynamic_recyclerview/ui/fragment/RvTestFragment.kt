@@ -20,4 +20,6 @@ class RvTestFragment : Fragment() {
     companion object {
         val TAG = "RvTestFragment"
     }
+
+
 }
